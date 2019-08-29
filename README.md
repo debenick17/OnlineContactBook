@@ -1,2 +1,2 @@
 # OnlineContactBook
-An Online Contact Book
+An Online Contact Book with groovy-grails MVC framwork
